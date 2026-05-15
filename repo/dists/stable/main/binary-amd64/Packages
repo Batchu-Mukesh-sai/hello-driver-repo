@@ -1,3 +1,19 @@
+Package: hello
+Version: 1.2
+Architecture: amd64
+Maintainer: Mukesh sai <mukeshsai@e-consystems.com>
+Installed-Size: 230
+Depends: dkms
+Priority: optional
+Section: kernel
+Filename: pool/main/h/hello/hello_1.2_amd64.deb
+Size: 45472
+SHA256: 97fe50f2e9c7a4e9ef548df7766b8c53766d96508c973fc473cbf2221d017bbd
+SHA1: 15bd7b699948073588c269b3745f6d82c2c97853
+MD5sum: 4c81615e4a9242cc10fe28f2883409af
+Description: Prebuilt kernel driver package
+ Prebuilt kernel module and firmware.
+
 Package: hello-dkms
 Version: 1.2
 Architecture: all
