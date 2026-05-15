@@ -31,18 +31,18 @@ Description: Hello World kernel module using DKMS
  Simple hello world Linux kernel module.
 
 Package: hello-sample
-Version: 1.0
+Version: 1.4
 Architecture: amd64
 Maintainer: Mukesh sai <mukeshsai@e-consystems.com>
 Installed-Size: 230
 Depends: dkms
 Priority: optional
 Section: kernel
-Filename: pool/main/h/hello-sample/hello-sample_1.0_amd64.deb
+Filename: pool/main/h/hello-sample/hello-sample_1.4_amd64.deb
 Size: 45492
-SHA256: 167b153158259ce6324004c2154603614ec114fc1f88fa4dee9d753394ee5725
-SHA1: 5d8a248ca8983dcec00047c0dfe86c016c03456e
-MD5sum: 78dfcfc988ed2979b645dc984737e629
+SHA256: 4ad07b9b0b72a1d773ad977db4e03ed5587f9f2576d2c19f9fcba28a1953a386
+SHA1: 59fddd9fd990e6d277fe8ce0f959e09f60890242
+MD5sum: 227beebb0dbfd6711fcbf9f8a4e3b5be
 Description: Prebuilt kernel driver package
  Prebuilt kernel module and firmware.
 
