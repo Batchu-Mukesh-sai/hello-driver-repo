@@ -1,0 +1,20 @@
+Origin: e-con Systems
+Label: Hello
+Suite: stable
+Codename: stable
+Date: Fri, 15 May 2026 10:33:27 UTC
+Architectures: amd64
+Components: main
+Description: Hello Repository
+MD5Sum:
+ b510f64f0a3e50304287e8d6a66c68e9 504 main/binary-amd64/Packages
+ 4f50ae63148f47aff58d5ce9175498c4 379 main/binary-amd64/Packages.gz
+ f3a25a8e7eb1780a31794bee723b7534 117 main/binary-amd64/Release
+SHA1:
+ 9340ad8e54fa7556b1aea5350a4f50d89330ee95 504 main/binary-amd64/Packages
+ 3164df26a5bad78bcb5df8bc79643a22c322036b 379 main/binary-amd64/Packages.gz
+ c3e11a5848a8714ae2aac79a1b9efcecd7e0d70b 117 main/binary-amd64/Release
+SHA256:
+ e57720a2280139f99d406364e5c10feec4ab9856b072e65e1f2084865ebb568e 504 main/binary-amd64/Packages
+ 34093afb4bfc315de084e01d29ddd7ceb13ea8e412390e7189a3bbbaf3068774 379 main/binary-amd64/Packages.gz
+ 53879dcd42b3a08caa22bf1112aca6dbb711e2b6057189513a2079d190514ad6 117 main/binary-amd64/Release

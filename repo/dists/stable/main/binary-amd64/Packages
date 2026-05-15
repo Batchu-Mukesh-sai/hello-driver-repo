@@ -1,0 +1,16 @@
+Package: hello-dkms
+Version: 1.2
+Architecture: all
+Maintainer: Mukesh sai <mukeshsai@e-consystems.com>
+Installed-Size: 15
+Depends: dkms (>= 2.1.0.0)
+Priority: optional
+Section: kernel
+Filename: pool/main/h/hello-dkms/hello-dkms_1.2_all.deb
+Size: 2372
+SHA256: 092460ed28d303db651622055d85024db0d0e7129f2538a0b4cdfefb49ebadb1
+SHA1: 34087aa541a565e4ba3318a3adf98278dba7c4a1
+MD5sum: c07b8f4b8c966b807d4237394d52c6ba
+Description: Hello World kernel module using DKMS
+ Simple hello world Linux kernel module.
+

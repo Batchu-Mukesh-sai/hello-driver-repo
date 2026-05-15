@@ -1,0 +1,7 @@
+Origin: e-con Systems
+Label: Hello
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: Hello Repository
