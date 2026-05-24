@@ -1,0 +1,16 @@
+Package: hello-sample
+Version: 1.4
+Architecture: amd64
+Maintainer: Mukesh sai <mukeshsai@e-consystems.com>
+Installed-Size: 228
+Depends: dkms
+Priority: optional
+Section: kernel
+Filename: pool/main/h/hello-sample/hello-sample_1.4_amd64.deb
+Size: 45456
+SHA256: eac7de14441de344a8ee57a83f101097fb375ec9c43d72d3bbdc43a38df55cc0
+SHA1: 1a071e742c5c1e641cb63019709ffd753006b262
+MD5sum: 37a3f2a24a2fd6ce134f56445378c48a
+Description: Prebuilt kernel driver package
+ Prebuilt kernel module and firmware.
+

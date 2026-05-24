@@ -5,3 +5,11 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: Hello Repository
+
+Origin: e-con Systems
+Label: Hello
+Suite: fxcal
+Codename: focal
+Architectures: amd64
+Components: main
+Description: Hello Repository for ubuntu-22.04
