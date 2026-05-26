@@ -46,3 +46,18 @@ MD5sum: 9ddf6cbed8ecbf417493258009bb373b
 Description: Prebuilt kernel driver package
  Prebuilt kernel module and firmware.
 
+Package: sturdecam31-cuoagx-5.15.148-tegra
+Version: 1.0
+Architecture: all
+Maintainer: Mukesh sai <mukeshsai@e-consystems.com>
+Installed-Size: 1618
+Priority: optional
+Section: kernel
+Filename: pool/main/s/sturdecam31-cuoagx-5.15.148-tegra/sturdecam31-cuoagx-5.15.148-tegra_1.0_all.deb
+Size: 177004
+SHA256: be73443361f6902752b4a8035014e132518a0c5ae7474309a2eaffc89158f0af
+SHA1: 953f2355708ee8dbb9fb6eb8e35c72a101af7871
+MD5sum: 80c7b3d2d25abb5064f060e46786b909
+Description: Prebuilt kernel driver package
+ Prebuilt kernel module and firmware.
+
