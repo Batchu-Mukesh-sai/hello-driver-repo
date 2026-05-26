@@ -2,19 +2,19 @@ Origin: e-con Systems
 Label: Hello
 Suite: stable
 Codename: stable
-Date: Tue, 26 May 2026 07:41:22 UTC
-Architectures: amd64
+Date: Tue, 26 May 2026 08:50:07 UTC
+Architectures: arm64
 Components: main
 Description: Hello Repository
 MD5Sum:
- 80a521fdd97339572c5c98914b3d16cc 2012 main/binary-amd64/Packages
- 3f0d75cd3e2d8c2431befe0f8f53e57d 810 main/binary-amd64/Packages.gz
- f3a25a8e7eb1780a31794bee723b7534 117 main/binary-amd64/Release
+ 35c571343edf39e7f8adda90ddf33d26 545 main/binary-arm64/Packages
+ 90403db271ddf684ae729d84bd273b4f 367 main/binary-arm64/Packages.gz
+ b28883268a8b1118953f720f5aa9bdd4 117 main/binary-arm64/Release
 SHA1:
- 217e7c32f5dea370697282574838786fae567bc6 2012 main/binary-amd64/Packages
- a60a5e8ca4c1886008e39ef0fb67b3df938bda99 810 main/binary-amd64/Packages.gz
- c3e11a5848a8714ae2aac79a1b9efcecd7e0d70b 117 main/binary-amd64/Release
+ 5f52e33d1dc3b734916d4786308140ce3e94aa53 545 main/binary-arm64/Packages
+ 16c489f94921e7fd28cc77e0dc315171caed38c0 367 main/binary-arm64/Packages.gz
+ 800405ce9ecdc678973243eef91bb7e15bbb65cd 117 main/binary-arm64/Release
 SHA256:
- fba55e2181f0bcaeb0fcbb61302b534e8c76f85990218d01aeb35f2addab2331 2012 main/binary-amd64/Packages
- 4cad451a56baea0e338dc463d85bbfc76b4667a40c47bb2da6f007dbed225b0a 810 main/binary-amd64/Packages.gz
- 53879dcd42b3a08caa22bf1112aca6dbb711e2b6057189513a2079d190514ad6 117 main/binary-amd64/Release
+ c06a20210869f0277eb6585bbb7e84d242105ca751da51fcec17144ba091ae9b 545 main/binary-arm64/Packages
+ 00e19204585beea5215816444e4a0fa0dcafb3b2efcc83bdd3321cd71989d3d9 367 main/binary-arm64/Packages.gz
+ 0f934dd6f787f47f86982a63c8fc37adb9ceaf8ac96a655634329e75dfc049c4 117 main/binary-arm64/Release
