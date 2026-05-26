@@ -1,15 +1,15 @@
 Package: sturdecam31-cuoagx-5.15.148-tegra
-Version: 1.2
+Version: 1.3
 Architecture: arm64
 Maintainer: Mukesh sai <mukeshsai@e-consystems.com>
-Installed-Size: 1843
+Installed-Size: 1840
 Priority: optional
 Section: kernel
-Filename: pool/main/s/sturdecam31-cuoagx-5.15.148-tegra/sturdecam31-cuoagx-5.15.148-tegra_1.2_arm64.deb
-Size: 212224
-SHA256: c54e86cb4536112fc18532463ec2cbb63b20abb628fee8a994be3ebd1426d23b
-SHA1: 919e60d3daed73762931e85e376957b04a4c7af2
-MD5sum: 8f6b3eb4f9c37c58481b313b26f675a9
+Filename: pool/main/s/sturdecam31-cuoagx-5.15.148-tegra/sturdecam31-cuoagx-5.15.148-tegra_1.3_arm64.deb
+Size: 211460
+SHA256: 716b55144c2ba818d1ee4975ffb1b26adeed83fac55dabf15b8ccb22bf11614e
+SHA1: f25c2960a88c46b4fd2df364e58c041444a42b8b
+MD5sum: 6695851c58c14566ee14991ec9854c9e
 Description: Prebuilt kernel driver package
  Prebuilt kernel module and firmware.
 
